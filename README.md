@@ -4,6 +4,7 @@ a
 b
 b
 a3
+b3
 x
 x
 y1
