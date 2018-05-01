@@ -3,6 +3,7 @@ a
 a
 b
 b
+a3
 x
 x
 y1
